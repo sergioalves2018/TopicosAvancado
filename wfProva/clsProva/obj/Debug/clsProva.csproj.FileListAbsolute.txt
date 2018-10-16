@@ -1,0 +1,21 @@
+c:\Users\paulo.goes\source\repos\wfProva\clsProva\bin\Debug\clsProva.dll
+c:\Users\paulo.goes\source\repos\wfProva\clsProva\bin\Debug\clsProva.pdb
+c:\Users\paulo.goes\source\repos\wfProva\clsProva\bin\Debug\clsBanco.dll
+c:\Users\paulo.goes\source\repos\wfProva\clsProva\bin\Debug\clsBanco.pdb
+c:\Users\paulo.goes\source\repos\wfProva\clsProva\bin\Debug\clsBanco.dll.config
+c:\Users\paulo.goes\source\repos\wfProva\clsProva\bin\Debug\EntityFramework.xml
+c:\Users\paulo.goes\source\repos\wfProva\clsProva\obj\Debug\clsProva.csprojResolveAssemblyReference.cache
+c:\Users\paulo.goes\source\repos\wfProva\clsProva\obj\Debug\clsProva.csproj.CoreCompileInputs.cache
+c:\Users\paulo.goes\source\repos\wfProva\clsProva\obj\Debug\clsProva.csproj.CopyComplete
+c:\Users\paulo.goes\source\repos\wfProva\clsProva\obj\Debug\clsProva.dll
+c:\Users\paulo.goes\source\repos\wfProva\clsProva\obj\Debug\clsProva.pdb
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\clsProva\obj\Debug\clsProva.csprojResolveAssemblyReference.cache
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\clsProva\obj\Debug\clsProva.csproj.CoreCompileInputs.cache
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\clsProva\obj\Debug\clsProva.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\clsProva\obj\Debug\clsProva.pdb
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\clsProva\bin\Debug\clsProva.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\clsProva\bin\Debug\clsProva.pdb
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\clsProva\bin\Debug\clsBanco.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\clsProva\bin\Debug\clsBanco.pdb
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\clsProva\bin\Debug\clsBanco.dll.config
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\clsProva\obj\Debug\clsProva.csproj.CopyComplete

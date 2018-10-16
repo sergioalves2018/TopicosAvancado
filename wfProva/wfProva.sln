@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wfProva", "wfProva\wfProva.csproj", "{9B325050-EFE1-4AB4-AE48-6D22EE4B0627}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clsBanco", "clsBanco\clsBanco.csproj", "{73559E38-67AF-4325-8258-38505BF6D6B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clsProva", "clsProva\clsProva.csproj", "{091458DB-CC5B-44EC-ADB7-69835913FC3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B325050-EFE1-4AB4-AE48-6D22EE4B0627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B325050-EFE1-4AB4-AE48-6D22EE4B0627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B325050-EFE1-4AB4-AE48-6D22EE4B0627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B325050-EFE1-4AB4-AE48-6D22EE4B0627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73559E38-67AF-4325-8258-38505BF6D6B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73559E38-67AF-4325-8258-38505BF6D6B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73559E38-67AF-4325-8258-38505BF6D6B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73559E38-67AF-4325-8258-38505BF6D6B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{091458DB-CC5B-44EC-ADB7-69835913FC3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{091458DB-CC5B-44EC-ADB7-69835913FC3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{091458DB-CC5B-44EC-ADB7-69835913FC3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{091458DB-CC5B-44EC-ADB7-69835913FC3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F45F6DA2-5416-45D8-9E13-1478A26E6E38}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="dbEstacionamentoModelStoreContainer" CdmEntityContainer="dbEstacionamentoEntities">
+    <EntitySetMapping Name="Carro">
+      <EntityTypeMapping TypeName="dbEstacionamentoModel.Carro">
+        <MappingFragment StoreEntitySet="Carro">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="anoFabricacao" ColumnName="anoFabricacao" />
+          <ScalarProperty Name="anoModelo" ColumnName="anoModelo" />
+          <ScalarProperty Name="cor" ColumnName="cor" />
+          <ScalarProperty Name="marca" ColumnName="marca" />
+          <ScalarProperty Name="modelo" ColumnName="modelo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Estacionamento">
+      <EntityTypeMapping TypeName="dbEstacionamentoModel.Estacionamento">
+        <MappingFragment StoreEntitySet="Estacionamento">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="dataEntrada" ColumnName="dataEntrada" />
+          <ScalarProperty Name="dataSaida" ColumnName="dataSaida" />
+          <ScalarProperty Name="descricao" ColumnName="descricao" />
+          <ScalarProperty Name="nomeCliente" ColumnName="nomeCliente" />
+          <ScalarProperty Name="telefone" ColumnName="telefone" />
+          <ScalarProperty Name="valor" ColumnName="valor" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

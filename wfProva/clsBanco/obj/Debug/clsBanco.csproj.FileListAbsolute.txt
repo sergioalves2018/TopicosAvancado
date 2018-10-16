@@ -1,0 +1,23 @@
+c:\Users\paulo.goes\source\repos\wfProva\clsBanco\bin\Debug\clsBanco.dll.config
+c:\Users\paulo.goes\source\repos\wfProva\clsBanco\bin\Debug\clsBanco.dll
+c:\Users\paulo.goes\source\repos\wfProva\clsBanco\bin\Debug\clsBanco.pdb
+c:\Users\paulo.goes\source\repos\wfProva\clsBanco\bin\Debug\EntityFramework.dll
+c:\Users\paulo.goes\source\repos\wfProva\clsBanco\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\paulo.goes\source\repos\wfProva\clsBanco\bin\Debug\EntityFramework.xml
+c:\Users\paulo.goes\source\repos\wfProva\clsBanco\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\paulo.goes\source\repos\wfProva\clsBanco\obj\Debug\clsBanco.csprojResolveAssemblyReference.cache
+c:\Users\paulo.goes\source\repos\wfProva\clsBanco\obj\Debug\clsBanco.csproj.CoreCompileInputs.cache
+c:\Users\paulo.goes\source\repos\wfProva\clsBanco\obj\Debug\clsBanco.csproj.CopyComplete
+c:\Users\paulo.goes\source\repos\wfProva\clsBanco\obj\Debug\clsBanco.dll
+c:\Users\paulo.goes\source\repos\wfProva\clsBanco\obj\Debug\clsBanco.pdb
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\clsBanco\bin\Debug\clsBanco.dll.config
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\clsBanco\bin\Debug\clsBanco.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\clsBanco\bin\Debug\clsBanco.pdb
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\clsBanco\bin\Debug\EntityFramework.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\clsBanco\bin\Debug\EntityFramework.SqlServer.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\clsBanco\bin\Debug\EntityFramework.xml
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\clsBanco\bin\Debug\EntityFramework.SqlServer.xml
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\clsBanco\obj\Debug\clsBanco.csproj.CoreCompileInputs.cache
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\clsBanco\obj\Debug\clsBanco.csproj.CopyComplete
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\clsBanco\obj\Debug\clsBanco.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\clsBanco\obj\Debug\clsBanco.pdb

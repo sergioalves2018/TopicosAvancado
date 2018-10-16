@@ -1,0 +1,194 @@
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\ApplicationInsights.config
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\wfProva.dll.config
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\wfProva.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\wfProva.pdb
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\csc.exe
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\csc.exe.config
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\csc.rsp
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\csi.exe
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\csi.exe.config
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\csi.rsp
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\System.AppContext.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\System.Collections.Immutable.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\System.Console.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\System.IO.Compression.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\System.IO.FileSystem.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\System.IO.Pipes.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\System.Security.AccessControl.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\System.Security.Claims.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\System.Threading.Thread.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\System.ValueTuple.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\System.Xml.XPath.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\vbc.exe
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\vbc.exe.config
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\vbc.rsp
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\VBCSCompiler.exe
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\roslyn\VBCSCompiler.exe.config
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\Antlr3.Runtime.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\Microsoft.AI.Web.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\Microsoft.AI.WindowsServer.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\Microsoft.ApplicationInsights.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\Microsoft.Web.Infrastructure.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\Newtonsoft.Json.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\System.Web.Optimization.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\WebGrease.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\System.Web.Optimization.xml
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\Antlr3.Runtime.pdb
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\Newtonsoft.Json.xml
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\Microsoft.ApplicationInsights.xml
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\Microsoft.AI.WindowsServer.xml
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\Microsoft.AI.Web.xml
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\pt-br\System.Web.Optimization.resources.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\obj\Debug\wfProva.csprojResolveAssemblyReference.cache
+c:\users\paulo.goes\source\repos\wfProva\wfProva\obj\Debug\wfProva.csproj.CoreCompileInputs.cache
+c:\users\paulo.goes\source\repos\wfProva\wfProva\obj\Debug\wfProva.csproj.CopyComplete
+c:\users\paulo.goes\source\repos\wfProva\wfProva\obj\Debug\wfProva.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\obj\Debug\wfProva.pdb
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\clsProva.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\clsBanco.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\EntityFramework.dll
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\clsProva.pdb
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\clsBanco.pdb
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\clsBanco.dll.config
+c:\users\paulo.goes\source\repos\wfProva\wfProva\bin\EntityFramework.xml
+c:\Users\paulo.goes\source\repos\wfProva\wfProva\bin\EntityFramework.SqlServer.dll
+c:\Users\paulo.goes\source\repos\wfProva\wfProva\bin\EntityFramework.SqlServer.xml
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\obj\Debug\wfProva.csprojResolveAssemblyReference.cache
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\obj\Debug\wfProva.csproj.CoreCompileInputs.cache
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\obj\Debug\wfProva.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\obj\Debug\wfProva.pdb
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\ApplicationInsights.config
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\wfProva.dll.config
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\wfProva.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\wfProva.pdb
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\csc.exe
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\csc.exe.config
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\csc.rsp
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\csi.exe
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\csi.exe.config
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\csi.rsp
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\System.AppContext.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\System.Collections.Immutable.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\System.Console.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\System.Diagnostics.Process.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\System.IO.Compression.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\System.IO.FileSystem.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\System.IO.Pipes.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\System.Reflection.Metadata.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\System.Security.AccessControl.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\System.Security.Claims.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\System.Threading.Thread.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\System.ValueTuple.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\System.Xml.XPath.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\vbc.exe
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\vbc.exe.config
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\vbc.rsp
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\VBCSCompiler.exe
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\roslyn\VBCSCompiler.exe.config
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\Antlr3.Runtime.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\AspNet.ScriptManager.jQuery.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\clsBanco.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\clsProva.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\EntityFramework.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\EntityFramework.SqlServer.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\Microsoft.AI.DependencyCollector.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\Microsoft.AI.Web.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\Microsoft.AI.WindowsServer.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\Microsoft.ApplicationInsights.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\Microsoft.Web.Infrastructure.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\Newtonsoft.Json.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\System.Web.Optimization.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\WebGrease.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\clsBanco.pdb
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\clsBanco.dll.config
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\clsProva.pdb
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\EntityFramework.xml
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\EntityFramework.SqlServer.xml
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\System.Web.Optimization.xml
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\Antlr3.Runtime.pdb
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\Newtonsoft.Json.xml
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\Microsoft.ApplicationInsights.xml
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\Microsoft.AI.DependencyCollector.xml
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\Microsoft.AI.WindowsServer.xml
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\Microsoft.AI.Web.xml
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Paulo - Arquivos\Logatti\Oitavo Semestre\Andre - TA II\Projeto\ProjetoCSharp\wfProva\wfProva\obj\Debug\wfProva.csproj.CopyComplete
