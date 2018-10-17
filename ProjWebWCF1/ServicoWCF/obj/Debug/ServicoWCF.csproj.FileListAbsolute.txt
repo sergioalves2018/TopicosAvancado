@@ -1,0 +1,17 @@
+c:\users\paulo.goes\source\repos\ProjWebWCF1\ServicoWCF\bin\Debug\ServicoWCF.exe.config
+c:\users\paulo.goes\source\repos\ProjWebWCF1\ServicoWCF\bin\Debug\ServicoWCF.exe
+c:\users\paulo.goes\source\repos\ProjWebWCF1\ServicoWCF\bin\Debug\ServicoWCF.pdb
+c:\users\paulo.goes\source\repos\ProjWebWCF1\ServicoWCF\bin\Debug\Dados.dll
+c:\users\paulo.goes\source\repos\ProjWebWCF1\ServicoWCF\bin\Debug\Entidade.dll
+c:\users\paulo.goes\source\repos\ProjWebWCF1\ServicoWCF\bin\Debug\EntityFramework.dll
+c:\users\paulo.goes\source\repos\ProjWebWCF1\ServicoWCF\bin\Debug\Dados.pdb
+c:\users\paulo.goes\source\repos\ProjWebWCF1\ServicoWCF\bin\Debug\Dados.dll.config
+c:\users\paulo.goes\source\repos\ProjWebWCF1\ServicoWCF\bin\Debug\Entidade.pdb
+c:\users\paulo.goes\source\repos\ProjWebWCF1\ServicoWCF\bin\Debug\EntityFramework.xml
+c:\users\paulo.goes\source\repos\ProjWebWCF1\ServicoWCF\obj\Debug\ServicoWCF.csprojResolveAssemblyReference.cache
+c:\users\paulo.goes\source\repos\ProjWebWCF1\ServicoWCF\obj\Debug\ServicoWCF.csproj.CoreCompileInputs.cache
+c:\users\paulo.goes\source\repos\ProjWebWCF1\ServicoWCF\obj\Debug\ServicoWCF.csproj.CopyComplete
+c:\users\paulo.goes\source\repos\ProjWebWCF1\ServicoWCF\obj\Debug\ServicoWCF.exe
+c:\users\paulo.goes\source\repos\ProjWebWCF1\ServicoWCF\obj\Debug\ServicoWCF.pdb
+C:\Users\paulo.goes\source\repos\ProjWebWCF1\ServicoWCF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\paulo.goes\source\repos\ProjWebWCF1\ServicoWCF\bin\Debug\EntityFramework.SqlServer.xml

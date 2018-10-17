@@ -1,0 +1,5 @@
+c:\users\paulo.goes\source\repos\ProjWebWCF1\Entidade\bin\Debug\Entidade.dll
+c:\users\paulo.goes\source\repos\ProjWebWCF1\Entidade\bin\Debug\Entidade.pdb
+c:\users\paulo.goes\source\repos\ProjWebWCF1\Entidade\obj\Debug\Entidade.csproj.CoreCompileInputs.cache
+c:\users\paulo.goes\source\repos\ProjWebWCF1\Entidade\obj\Debug\Entidade.dll
+c:\users\paulo.goes\source\repos\ProjWebWCF1\Entidade\obj\Debug\Entidade.pdb

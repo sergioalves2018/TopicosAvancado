@@ -1,0 +1,14 @@
+c:\users\paulo.goes\source\repos\ProjWebWCF1\Dados\bin\Debug\Dados.dll.config
+c:\users\paulo.goes\source\repos\ProjWebWCF1\Dados\bin\Debug\Dados.dll
+c:\users\paulo.goes\source\repos\ProjWebWCF1\Dados\bin\Debug\Dados.pdb
+c:\users\paulo.goes\source\repos\ProjWebWCF1\Dados\bin\Debug\Entidade.dll
+c:\users\paulo.goes\source\repos\ProjWebWCF1\Dados\bin\Debug\EntityFramework.dll
+c:\users\paulo.goes\source\repos\ProjWebWCF1\Dados\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\paulo.goes\source\repos\ProjWebWCF1\Dados\bin\Debug\Entidade.pdb
+c:\users\paulo.goes\source\repos\ProjWebWCF1\Dados\bin\Debug\EntityFramework.xml
+c:\users\paulo.goes\source\repos\ProjWebWCF1\Dados\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\paulo.goes\source\repos\ProjWebWCF1\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+c:\users\paulo.goes\source\repos\ProjWebWCF1\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+c:\users\paulo.goes\source\repos\ProjWebWCF1\Dados\obj\Debug\Dados.csproj.CopyComplete
+c:\users\paulo.goes\source\repos\ProjWebWCF1\Dados\obj\Debug\Dados.dll
+c:\users\paulo.goes\source\repos\ProjWebWCF1\Dados\obj\Debug\Dados.pdb
